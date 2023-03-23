@@ -1,0 +1,1 @@
+2-f) Al hacer git checkout main ya no puedo ver el archivo tp2_1_2.c porque fuero commiteados en otra branch (Opcion_2 para ser exactos).

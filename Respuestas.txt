@@ -1,1 +1,2 @@
 2-f) Al hacer git checkout main ya no puedo ver el archivo tp2_1_2.c porque fuero commiteados en otra branch (Opcion_2 para ser exactos).
+2-f) Luego de haber commiteado la creación de Respuestas.txt veo que como las ramas fueron "separadas" ya que, por ejemplo, main tiene un commit que Opcion_2 no tiene, y que Opcion_2 tiene 2 commits que main no tiene.
